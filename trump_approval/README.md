@@ -4,5 +4,7 @@
 [approval data from Morning Consult](https://morningconsult.com/tracking-trump/)  
 [election data from wikipedia](https://en.wikipedia.org/wiki/United_States_presidential_election,_2016)  
 
+PNG OUTPUT
 ![Trump Approval](trump_approval.png)
 
+trump_approval.html contains an interactive plotly image with mouseover to see the state names.
