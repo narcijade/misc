@@ -12,5 +12,5 @@ Change in Trump's net approval rating
 trump_approval.R  
 trump_approval.html  
 
-![Trump Approval](trump_approval.png)
+![Trump Approval](trump_approval/trump_approval.png)
 
