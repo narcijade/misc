@@ -73,3 +73,5 @@ p1 <- ggplot(filtered, aes(x=`2016 Trump Vote`, color=`Voted for Trump`)) +
 # maybe this can be fixed.
 ggp <- ggplotly(p1, tooltip=c("text")) 
 htmlwidgets::saveWidget(ggp, "trump_approval.html")
+ggsave("trump_approval.png")
+saveRDS(filtered, "trump_approval.RDS")
