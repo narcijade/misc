@@ -4,5 +4,5 @@
 [approval data](https://morningconsult.com/tracking-trump/)  
 [election data](https://en.wikipedia.org/wiki/United_States_presidential_election,_2016)  
 
-![Trump Approval](trump_approval/trump_approval.png)
+![Trump Approval](trump_approval.png)
 
